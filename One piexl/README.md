@@ -2,6 +2,6 @@ This is a simple implementation of *****One Piexl Attack for Fooling Deep Neural
 
 ## example
 
-![avatar](/origin.png)
+![avatar](./origin.png)
 
-![avatar](/new.png)
+![avatar](./new.png)
