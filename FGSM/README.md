@@ -9,9 +9,9 @@ This is an implementation of Explaining and Harnessing Adversarial Sample in the
 
 ## EXAMPLE
 
-![avatar](/result/before_attack.PNG)
+![avatar](/FGSM/result/before_attack.PNG)
     
-![avatar](/result/after_attack.PNG)
+![avatar](/FGSM/result/after_attack.PNG)
 
-![avatar](/result/perturbation.PNG)
+![avatar](/FGSM/result/perturbation.PNG)
 
